@@ -23,8 +23,10 @@ Contains links to TPT 5.1 - 5.2 GitHub Page Actions, Create Task Code, and the D
 3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
 * Red tape blocking is essentially a set of rules and regulations that aren't effective anymore and are therefore more harmful than beneficial whereas digital empowerment is a person's ability to efficiently use technology to gain information and skills important to society as a whole. Therefore, red tape blocking isn't digital empowerment since these restrictions prove disadvantageous to students who try to improve their use of technology. There are small barriers like this present in all settings. For example, at Del Norte, it is required for students to bring a laptop of some sort to school but each student has a different device they use based on what they can afford. This divide ensures some students to better succeed than others.
 
-#### [Data Structures Runtime](https://replit.com/join/vckpmcfzoq-pranaviinukurti).
-#### [Create Task Runtime](https://replit.com/join/vckpmcfzoq-pranaviinukurti).
+#### Data Structures Runtime
+https://replit.com/join/vckpmcfzoq-pranaviinukurti
+#### Create Task Runtime
+https://replit.com/join/vckpmcfzoq-pranaviinukurti
 ```
 
 ### Week 2 - Lists and Loops
