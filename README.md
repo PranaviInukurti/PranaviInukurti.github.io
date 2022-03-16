@@ -27,10 +27,29 @@ Contains links to TPT 5.1 - 5.2 GitHub Page Actions, Create Task Code, and the D
 #### [Create Task Link](https://replit.com/join/vckpmcfzoq-pranaviinukurti)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Week 2 - Lists and Loops
 
-### Jekyll Themes
+Contains links to TPT 5.3 - 5.4 GitHub Page Actions and all the code for TT1 Hacks. 
 
+```markdown
+#### 5.3
+1. Does the owner of the computer think this was intentional? If yes or no, justify you conclusion?
+* The owner of the computer did seem to think this was intentional as he directly stated towards the end of the video that the program was racist. He also seemed to be angry when the program wasn't recognizing his face as a black man, but was recognizing his white coworker's face. 
+2. How do you think this happened?
+* The team that developed this program might not have been diverse and therefore had unintentional bias that excluded people who weren't white. It is also possible that the team for this program was diverse but didn't properly think through the bias they had that excluded certain ethnicities from accessing their program. 
+3. Is this harmful? Was it intended to be harmful or exclude?
+* Even though this facial recongitioning program wasn't intended to be harmful, it still was since it prevented many people with darker skin tones from accessing the program. 
+4. Should it be corrected?
+* This should be corrected, not only to stop promoting a racist agenda, but to also have the program reach a more diverse audience and allow many more people to use the program. 
+5. What would you or should you do to produce a better outcome?
+* Having a more diverse team for the program would ensure that there was more variety in the program's audience because there would be more perspectives involved in the creation of the program and who the program could recognize. 
+
+#### 5.4
+1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+* A crowdsource idea could be an online review of the restaurants in the Target Complex close to our Del Norte HS campus. I would initiate this in our environment by taking a sample from the 150 CompSci principles students and use their restaurant reviews for the idea. 
+2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+* Our project idea is a mental awareness website to spread awareness about mental illnesses. Our final project could definetely be better with crowdsourcing. By gaining Del Norte students' opinions about mental health diseases, we could get many perspectives about how stressed students are and the cause of their stress. This allows our website to find better solutions for students like those we sampled and ensure that our website is as accurate as possible for its future users. 
+```
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PranaviInukurti/PranaviInukurti.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
