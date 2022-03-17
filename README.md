@@ -3,6 +3,7 @@
 - Test Prep Study
 - Data Structures Project
 - Create Task
+- [linkk to review ticket](https://github.com/PranaviInukurti/PranaviInukurti.github.io/issues/1)
 
 ### Week 1 - Plans, Teams, Jobs
 
