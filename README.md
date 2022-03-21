@@ -4,6 +4,7 @@
 - Data Structures Project
 - Create Task
 - [link to review ticket](https://github.com/PranaviInukurti/PranaviInukurti.github.io/issues/1)
+- [link to lists and loops](https://github.com/PranaviInukurti/PranaviInukurti.github.io/issues/2)
 
 ### Week 1 - Plans, Teams, Jobs
 
